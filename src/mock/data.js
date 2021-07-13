@@ -12,7 +12,7 @@ export const heroData = {
   title: 'Hii! i am ',
   name: 'Aman Bharti',
   subtitle: 'Competitive Programmer and Web Developer',
-  cta: '',
+  cta: 'Welcome',
 };
 
 // ABOUT DATA
