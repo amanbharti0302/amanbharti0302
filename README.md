@@ -1,11 +1,7 @@
 
 ### Hi there 👋
 
-
 <br>
-</p>
-- 😄 Pronouns: ... We/Us
-- ⚡ Fun fact: ... I am batman. 😎🦇 
 
 ### 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=amanbharti0302&theme=gruvbox" alt="amanbharti0302"  /></p>
